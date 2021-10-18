@@ -8,6 +8,9 @@ HTML,CSS ve JavaScript  kullanılarak hazırlanan bir todo app uygulamasıdır
 * Tarih karşılaştırmaları kullanarak günü gelen veya geçmiş olan görevlerin alarmla kullanıcıya bildirilmesi sağlanmıştır.
 * Local Storage kullanılarak verilerin kaydedilmesi sağlanmıştır.
 * Websitesi responsive hale getirilmiştir.
+* Başlık veya Tarihin boş değer olup olmadığının kontrolü sağlanmıştır.
+* Kayıtlı veri yoksa kullanıcıyı bilgilendirme sağlanmıştır.
+* Tümünü Sil Butonu ve Toplam Kayıt Sayısı kullanıcıya sunulmuştur.
 ## Kullanılan Teknolojiler
 * 1-) HTML
 * 2-) CSS
@@ -22,6 +25,8 @@ HTML,CSS ve JavaScript  kullanılarak hazırlanan bir todo app uygulamasıdır
 ![logo](/img/TodoApp/2.png)
 * Görevi Güncelleme
 ![logo](/img/TodoApp/3.png)
+* Tümünü Sil
+![logo](/img/TodoApp/4.png)
 ### Github Linki:
 https://github.com/ugurilgin/Patika.dev/tree/main/InveonFullStack/1-Todo%20App
 ## Hazırlayanlar
