@@ -3,7 +3,7 @@
 ## Homeworks
 ##### Frontend Homeworks
 - [Ödev-1 (Todo App) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-1/README.md) 
-- [Netlify:](https://trusting-franklin-0b42e5.netlify.app)
+- [Netlify Live Server](https://trusting-franklin-0b42e5.netlify.app)
 ## Hazırlayanlar
 Uğur ILGIN
 
