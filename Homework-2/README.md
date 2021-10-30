@@ -1,6 +1,7 @@
 
 ![logo](/img/TodoApp/5.png)
-Ödev-2 (Todo App with React) --- Netlify Live Server
+# Live Server
+* Ödev-2 (Todo App with React) --- Netlify Live Server
 
 
 # Requirenments
