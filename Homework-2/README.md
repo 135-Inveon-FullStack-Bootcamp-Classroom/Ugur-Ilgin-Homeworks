@@ -8,4 +8,4 @@
 * npm install yarn
 * yarn add react-icons
 * yarn add react-scripts
-* yarn add web-vitals
+* yarn add clsx
