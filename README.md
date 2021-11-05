@@ -7,7 +7,7 @@
 * Week 2
 -  [Ödev-2 (Todo App with React) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-2/README.md) --- [Netlify Live Server](https://naughty-lalande-d57850.netlify.app)
 * Week 3
--  [Ödev-3 (Calculator with React) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-3/1-Calculator/README.md) --- [Netlify Live Server](https://optimistic-galileo-659f8b.netlify.app)
+-  [Ödev-3 (Calculator with React) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-3/1-Calculator/README.md) --- [Netlify Live Server](https://peaceful-ride-7c4675.netlify.app)
 -  [Ödev-4 (Simple Blog with React) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-3/2-Blog/README.md) --- [Netlify Live Server](https://pensive-beaver-ae30e4.netlify.app)
 
 ## Hazırlayanlar
