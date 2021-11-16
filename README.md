@@ -14,7 +14,7 @@
 -  [Ödev-6 (Counter App with Redux) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-4/4-Redux-Counter/README.md) 
 ##### Backend Homeworks
 * Week 5
-- [Ödev-5 (OOP Template) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-5/README.md) 
+- [Ödev-7 (OOP Template) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-5/README.md) 
 ## Hazırlayanlar
 Uğur ILGIN
 
