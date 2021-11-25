@@ -15,7 +15,6 @@
 ##### Backend Homeworks
 * Week 5
 - [Ödev-7 (OOP Template) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-5/README.md) 
-=======
 * Week 6
 - [Ödev-8 (Web API) ](https://github.com/135-Inveon-FullStack-Bootcamp-Classroom/Ugur-Ilgin-Homeworks/tree/main/Homework-6/) 
 ## Hazırlayanlar
